@@ -23,7 +23,7 @@ export class AlertPage implements OnInit {
         {
           name: 'newTitle',
           type: 'text',
-          placeholder: 'Ingrese nuevo título de página'
+          placeholder: 'Ingrese Cualquier Cosa no pasará nada'
         }
       ],
       buttons: [
